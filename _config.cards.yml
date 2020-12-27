@@ -41,7 +41,7 @@ head:
 navbar: 
 
   # 左侧名称显示
-  sitename: Demo
+  sitename: Happy Aura
   
   # 右侧站内导航链接
   menu: 
@@ -344,7 +344,7 @@ footer:
 # 优化/功能 插件
 # ---------------------------------------------------------------
 
-# 图片懒加载插件
+# 图片懒加载插件f
 # 你需要将 `lazyload` 配置项移至 站点配置文件 才能使相关配置生效！！！
 lazyload:
   enable: false
