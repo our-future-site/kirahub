@@ -64,13 +64,13 @@ navbar:
 cover: 
 
   # 显示在最上方 cover 处的站点名称
-  sitename: Demo
+  sitename: Happy Aura
 
   # 若设置 logo，则优先使用 logo 代替 sitename
   logo: 
   
   # logo 下方的一句话介绍
-  description: Hi, nice to meet you!
+  description: 向着太阳。
 
 
 
@@ -82,11 +82,11 @@ style:
 
   # 颜色配置
   color: 
-    main_color: '#eb5757'
+    main_color: '#7dc8e9'
 
   # 弧度设置
   radius: 
-    main_radius: 5px
+    main_radius: 30px
     
   # 间距设置
   space: 
@@ -133,8 +133,8 @@ meta:
   
   # 默认文章作者（可在front-matter中覆盖）
   author:
-    name: ChrAlpha
-    url: https://chralpha.com
+    name: HappyAura运营
+    url: https://happyaura.art
   
   # 文章创建日期
   date:
@@ -148,7 +148,7 @@ meta:
 
   # 文章缩略图
   thumbnail: 
-    enable: false
+    enable: true
     default:   # 默认缩略图，当页面 `thumbnail` 字段为空时 fallback 至此参数
 
   # 文章过时提醒
@@ -158,8 +158,8 @@ meta:
 
   # 文章自动摘要
   auto_excerpt: 
-    enable: false
-    length: 150
+    enable: true
+    length: 30
 
   # 文章目录
   toc: 
@@ -167,8 +167,8 @@ meta:
     list_number: false
 
   # 文章版权声明
-  copyright: 
-    enable: false
+  copyright: 这个页面上的文章如无特别说明，版权为作者所有。
+    enable: true
     
     # 在作者声明和永久链接之后，可以多行，支持 markdown
     custom_text:
