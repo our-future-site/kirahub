@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Happy Aura
 subtitle: ''
-description: '这是一个演示站点'
+description: 'For Hinatazaka46 and more.'
 keywords:
-author: 橘子是橘猫
+author: 康康
 language: zh-CN
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://happyaura.art
 root: /
 #permalink: :year/:month/:day/:title/
 permalink: post/:abbrlink/
@@ -100,7 +100,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: cards
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
