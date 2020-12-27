@@ -18,3 +18,5 @@ title: 开门大吉
 如果您有意向加入网站的管理，也欢迎您的联系，因为管理网站没有编程语法要求（我自己也是文科生），开发者在框架中有附中文说明，容易上手。
 
 最后，向[真的晒字幕组](https://space.bilibili.com/346794495?share_medium=android&share_source=copy_link&bbid=XYF7903F9488BBFD87C27C2558696228E7D1A&ts=1609080713773)致敬，以及感谢一直在QQ空间陪伴我们的[日向坂墙](https://h5.qzone.qq.com/mqzone/profile?starttime=1609080815534&hostuin=3527189601)。
+
+（不妨去[首页](http://happyaura.art)看看哦）
