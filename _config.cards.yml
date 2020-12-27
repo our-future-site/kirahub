@@ -45,15 +45,15 @@ navbar:
   
   # 右侧站内导航链接
   menu: 
-    - name: 首页
+    - name: Home
       url: /
-    - name: 标签
+    - name: Tags
       url: /tags/
-    - name: 归档
+    - name: Archives
       url: /archives/
-    - name: 友链
+    - name: Links
       url: /friends/
-    - name: Page
+    - name: About
       url: /page/
 
   # 导航栏永远显示在屏幕顶端
@@ -82,11 +82,11 @@ style:
 
   # 颜色配置
   color: 
-    main_color: '#7dc8e9'
+    main_: '#7dc8e9'
 
   # 弧度设置
   radius: 
-    main_radius: 30px
+    main_radius: 50px
     
   # 间距设置
   space: 
