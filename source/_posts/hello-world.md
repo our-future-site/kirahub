@@ -1,38 +1,20 @@
 ---
-title: Hello World
+title: 开门大吉
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+太阳公公朋友们好！
 
-## Quick Start
+欢迎来到Happy Aura网站。
 
-### Create a new post
+之前获得的域名还有很长时间，续费价格也十分低廉，因此我又把这个域名拿出来玩了。
 
-``` bash
-$ hexo new "My New Post"
-```
+先来个自我介绍吧。我是康子，…这个网名最开始是一个乌龙，我加入了某og的群聊，然后把备注写成“秋元康”，然后久而久之就有人这么叫了www
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+不过，还是很感谢你能点进来这个网站，因为它百废待兴：
 
-### Run server
+框架简单粗暴；图片全部放在[公共图床](sm.ms)，因此加载格外缓慢；网站没有主题（目前准备拿来存放大家的二创或者新闻稿）
 
-``` bash
-$ hexo server
-```
+当然，如果你有什么经验或者建议，不论是网页技术还是投稿内容，欢迎您不吝惜指教！我的QQ是：156315677。你也可以给我[发送邮件](mailto:dannychen46@yahoo.co.jp)，我都恭候您的到来。
 
-More info: [Server](https://hexo.io/docs/server.html)
+如果您有意向加入网站的管理，也欢迎您的联系，因为管理网站没有编程语法要求（我自己也是文科生），开发者在框架中有附中文说明，容易上手。
 
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+最后，向[真的晒字幕组](https://space.bilibili.com/346794495?share_medium=android&share_source=copy_link&bbid=XYF7903F9488BBFD87C27C2558696228E7D1A&ts=1609080713773)致敬，以及感谢一直在QQ空间陪伴我们的[日向坂墙](https://h5.qzone.qq.com/mqzone/profile?starttime=1609080815534&hostuin=3527189601)。
